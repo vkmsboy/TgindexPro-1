@@ -1,6 +1,9 @@
-aiohttp
+
 aiohttp-jinja2
 telethon>=1.16.4
 cryptg
 pillow
 doodstream
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
